@@ -29,7 +29,6 @@ I am confident about my abilities in helping organizations find innovative solut
 <h3>My Lastest Blog Posts</h3>
 
  <!-- BLOG-POST-LIST:START -->
-- [An Open Letter to the Aspiring Web Developer](https://candicezakariya.hashnode.dev/an-open-letter-to-the-aspiring-web-developer)
 - [3 Mistakes I Made Early In My Programming Journey—And What I&#39;m Doing Differently As a Result](https://candicezakariya.hashnode.dev/early-programming-mistakes)
 - [🖥 Markdown for Entry-Level Web Developers: Learn It Today](https://candicezakariya.hashnode.dev/markdown-for-entry-level-web-developers-learn-it-today)
 <!-- BLOG-POST-LIST:END -->
