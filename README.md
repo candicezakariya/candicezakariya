@@ -11,7 +11,7 @@
 
 - 📚 I’m currently learning **Bootstrap + React Native**
 
-- 📝 I regularly write articles on [https://medium.com/@candicezakariya](https://medium.com/@candicezakariya)
+- 📝 I regularly write articles on [**Medium.**](https://medium.com/@candicezakariya)
 
 - 💬 Ask me about **freelance writing services.**
 
