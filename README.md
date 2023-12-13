@@ -1,4 +1,4 @@
-![MasterHead]([https://candicezakariya.com/wp-content/uploads/2022/11/CANDICE-ZAKARIYA-1.png](https://candicezakariya.com/wp-content/uploads/2023/12/candice-zakariya-LinkedIn-Banner.png))
+![MasterHead]([https://candicezakariya.com/wp-content/uploads/2022/11/CANDICE-ZAKARIYA-1.png](https://candicezakariya.com/wp-content/uploads/2023/12/candice-zakariya-LinkedIn-Banner.png)
 <h1 align="left">Hi, I'm Candice Zakariya</h1>
 
 <h3 align="left">A Front-End Developer who enjoys learning and sharing my knowledge as an educator and content creator.</h3>
